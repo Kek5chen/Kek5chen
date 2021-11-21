@@ -14,10 +14,10 @@ Some things about me :<br/>
 :seven: Discord: kx#9941</br>
 :eight: Ask me anything related to programming. <a href="https://github.com/Kek5chen/Kek5chen/issues/new?assignees=&labels=question&title=Question%3A+%5BYour-Title%5D">here</a></br>
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Kek5chen?tab=repositories)<\br>
 <a href="https://github.com/BaseMax?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=kek5chen&column=8&margin-w=15&margin-h=15" alt="basemax"></a> 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Kek5chen?tab=repositories)<\br>
 <b>Languages and Tools:</b><br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <b>Languages Interests:</b><br/>
 None at the moment. Though I would like to learn more javascript.<br/>
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Kek5chen?tab=repositories)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kek5chen&show_icons=true&locale=en" alt="kek5chen">
 
 Last Edited on: 21/11/2021
