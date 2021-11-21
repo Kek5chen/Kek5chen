@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
 <br>
 <b>Languages Interests:</b><br/>
 None at the moment. Though I would like to learn more javascript.<br/>
