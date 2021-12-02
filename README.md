@@ -8,7 +8,7 @@ Some things about me :<br/>
 :one: Reverse Engineer<br/>
 :two: Full stack developer and IT professional with over 6 years of experience.<br/>
 :three: Proficient with Java, C#, C++.<br/> 
-:four: Have mastered many areas of programming like Web Development and server-side programming.<br/>
+:four: Have mastered multiple areas of programming like programming close to the computers hardware and memory.<br/>
 :five: I’m currently still doing my degree in software engineering.</br>
 :six: I started programming at a young age.</br>
 :seven: Discord: kx#9941</br>
