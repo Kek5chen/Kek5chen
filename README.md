@@ -15,7 +15,7 @@ Some things about me :<br/>
 :eight: Ask me anything related to programming. <a href="https://github.com/Kek5chen/Kek5chen/issues/new?assignees=&labels=question&title=Question%3A+%5BYour-Title%5D">here</a></br>
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Kek5chen?tab=repositories)<br/>
-<a href="https://github.com/Kek5chen?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=kek5chen&column=8&margin-w=15&margin-h=15" alt="kek5chen"></a> 
+[![Single Stats](https://github-profile-trophy.vercel.app/?username=kek5chen&column=8&margin-w=15&margin-h=15&theme=tokyonight)](https://github.com/Kek5chen?tab=repositories)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Kek5chen?tab=repositories)<br/>
 <b>Languages and Tools:</b><br/>
@@ -43,6 +43,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 I would like to learn React-Native or something similar.<br/>
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Kek5chen?tab=repositories)<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kek5chen&show_icons=true&locale=en" alt="kek5chen">
+[![Stats](https://github-readme-stats.vercel.app/api?username=kek5chen&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/Kek5chen?tab=repositories)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kek5chen&theme=tokyonight)](https://github.com/Kek5chen?tab=repositories)
 
-Last Edited on: 27/04/2022
+Last Edited on: 30/04/2022
