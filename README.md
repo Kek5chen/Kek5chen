@@ -3,8 +3,8 @@
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Kek5chen?tab=repositories)</br>
-<b>Welcome !! </b><br/>
-Some things about me :<br/>
+<b>Hello</b><br/>
+Here are some things about me :<br/>
 :one: Reverse Engineer<br/>
 :two: Full stack developer and IT professional with over 6 years of experience.<br/>
 :three: Proficient with Java, C#, C++.<br/> 
@@ -47,4 +47,4 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kek5chen&theme=tokyonight)](https://github.com/Kek5chen?tab=repositories)
 
-Last Edited on: 30/04/2022
+Last Edited on: 08/05/2022
