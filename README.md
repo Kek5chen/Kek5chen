@@ -38,6 +38,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img src="https://raw.githubusercontent.com/Kek5chen/devicon/0a06ff51f0a88db2549bd71d63a5c5a2f2dc39d8/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Kek5chen/devicon/0a06ff51f0a88db2549bd71d63a5c5a2f2dc39d8/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Kek5chen/devicon/0a06ff51f0a88db2549bd71d63a5c5a2f2dc39d8/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/Kek5chen/devicon/jetbrains-icons/icons/resharper/resharper-original.svg" alt="resharper" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/Kek5chen/devicon/jetbrains-icons/icons/resharperpp/resharperpp-original.svg" alt="resharper++" width="40" height="40"/>
+<img src="https://github.com/Kek5chen/devicon/blob/jetbrains-icons/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/>
 <br>
 <b>Comp Sci Interests:</b><br/>
 I would like to learn React-Native or something similar.<br/>
