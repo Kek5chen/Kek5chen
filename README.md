@@ -36,7 +36,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img src="https://raw.githubusercontent.com/Kek5chen/devicon/0a06ff51f0a88db2549bd71d63a5c5a2f2dc39d8/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Kek5chen/devicon/0a06ff51f0a88db2549bd71d63a5c5a2f2dc39d8/icons/datagrip/datagrip-original.svg" alt="datagrip" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Kek5chen/devicon/0a06ff51f0a88db2549bd71d63a5c5a2f2dc39d8/icons/webstorm/webstorm-original.svg" alt="webstorm" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/Kek5chen/devicon/0a06ff51f0a88db2549bd71d63a5c5a2f2dc39d8/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Kek5chen/devicon/0a06ff51f0a88db2549bd71d63a5c5a2f2dc39d8/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Kek5chen/devicon/jetbrains-icons/icons/resharper/resharper-original.svg" alt="resharper" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/Kek5chen/devicon/jetbrains-icons/icons/resharperpp/resharperpp-original.svg" alt="resharper++" width="40" height="40"/>
@@ -50,4 +49,4 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kek5chen&theme=tokyonight)](https://github.com/Kek5chen?tab=repositories)
 
-Last Edited on: 02/06/2022
+Last Edited on: 03/06/2022
