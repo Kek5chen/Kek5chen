@@ -9,7 +9,7 @@ Here are some things about me :<br/>
 :two: Full stack developer and IT professional with over 6 years of experience.<br/>
 :three: Proficient with C++, C, Java, C#.<br/> 
 :four: Have mastered multiple areas of programming like programming close to the computers hardware and memory.<br/>
-:five: I’m currently still doing my degree in software engineering.</br>
+:five: TryHackMe Top 1%, Cyber Security Analyst</br>
 :six: I started programming at a young age.</br>
 :seven: Discord: kx#9941</br>
 :eight: Ask me anything related to programming. <a href="https://github.com/Kek5chen/Kek5chen/issues/new?assignees=&labels=question&title=Question%3A+%5BYour-Title%5D">here</a></br>
