@@ -11,7 +11,7 @@ Here are some things about me :<br/>
 :four: Have mastered multiple areas of programming like programming close to the computers hardware and memory.<br/>
 :five: TryHackMe Top 1%, Cyber Security Analyst</br>
 :six: I started programming at a young age.</br>
-:seven: Discord: kx#9941</br>
+:seven: Discord: kx#9941 < If you want to add me, please leave a message <a href="https://github.com/Kek5chen/Kek5chen/issues/new?assignees=&labels=question&title=Question%3A+%5BYour-Title%5D">here</a> with your inquiry</br>
 :eight: Ask me anything related to programming. <a href="https://github.com/Kek5chen/Kek5chen/issues/new?assignees=&labels=question&title=Question%3A+%5BYour-Title%5D">here</a></br>
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Kek5chen?tab=repositories)<br/>
