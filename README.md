@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <b>Hello</b><br/>
 Here are some things about me :<br/>
 :one: Reverse Engineer<br/>
-:two: Full stack developer and IT professional with over 6 years of experience.<br/>
+:two: Full stack developer and IT professional with over 7 years of experience.<br/>
 :three: Proficient with C++, C, Java, C#.<br/> 
 :four: Have mastered multiple areas of programming like programming close to the computers hardware and memory.<br/>
 :five: TryHackMe Top 1%, Cyber Security Analyst</br>
