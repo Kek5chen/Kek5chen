@@ -1,5 +1,5 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=kek5chen&label=Profile%20views&color=0e75b6&style=flat" alt="kek5chen">
-<h1 align="center">What's Up 😎🔥</h1>
+<h1 align="center">Heyo :3</h1>
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Kek5chen?tab=repositories)</br>
@@ -48,4 +48,4 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kek5chen&theme=tokyonight)](https://github.com/Kek5chen?tab=repositories)
 
-*Last Edited on: 18/08/2024*
+*Last Edited on: 02/11/2024*
