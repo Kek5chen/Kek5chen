@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 :three: Proficient with Rust, C++, C, Java, C#.<br/> 
 :four: Have mastered multiple areas of programming like programming close to the computers hardware and memory.<br/>
 :five: TryHackMe Top 0.1%, Red Teamer</br>
-:six: I started programming at a young age.</br>
+:six: Newfound network engineer</br>
 :seven:  If you want to add me on discord, please leave a message <a href="https://github.com/Kek5chen/Kek5chen/issues/new?assignees=&labels=question&title=Question%3A+%5BYour-Title%5D">here</a> so I know</br>
 :eight: Ask me anything related to programming or cyber security. <a href="https://github.com/Kek5chen/Kek5chen/issues/new?assignees=&labels=question&title=Question%3A+%5BYour-Title%5D">here</a></br>
 <br/>
