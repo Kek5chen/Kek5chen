@@ -1,5 +1,5 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=kek5chen&label=Profile%20views&color=0e75b6&style=flat" alt="kek5chen">
-<h1 align="center">Heyo :3</h1>
+<h1 align="center">Heyo 🎉</h1>
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Kek5chen?tab=repositories)</br>
